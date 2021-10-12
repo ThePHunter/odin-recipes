@@ -11,6 +11,7 @@
     color: rgb(212, 107, 21);
     text-shadow: 1px 1px 3px rgb(0, 0, 0);
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    margin-left: 0%;
 }
 
 .img {
@@ -19,13 +20,14 @@
 }
 
 .head {
-    width: 650px;
-    margin-bottom: 25px;
+    width: 31%;
+    margin-bottom: 4%;
 }
 
 .recipe {
-    width: 400px;
-    margin:2px 1px 25px 25px ;
+    width: 15%;
+    margin:0% 4% 0% 1.33% ;
+
 }
 
 .vertlist {
