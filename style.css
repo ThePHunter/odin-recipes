@@ -1,0 +1,33 @@
+* {
+    text-align: center;
+}
+
+.bgcolor {
+   background-color: rgb(243, 184, 128);
+}
+
+
+.title {
+    color: rgb(212, 107, 21);
+    text-shadow: 1px 1px 3px rgb(0, 0, 0);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+}
+
+.img {
+    box-shadow: 0px 0px 6px 3px black;
+    height: auto;
+}
+
+.head {
+    width: 650px;
+    margin-bottom: 25px;
+}
+
+.recipe {
+    width: 400px;
+    margin:2px 1px 25px 25px ;
+}
+
+.vertlist {
+    display: inline;
+}
